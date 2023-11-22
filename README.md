@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Egor12982
 - 👀 I’m interested in data.
-- 🌱 I’m currently learning AWS, SQL, Python.
+- 🌱 I’m currently learning ClickHouse, Snowflake, SQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
